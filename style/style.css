@@ -45,7 +45,7 @@ h3{
 }
 .about-me{
     display: flex;
-    background-image: url(images/7.png);
+    background-image: url(../images/7.png);
     background-repeat: no-repeat;
     background-size: 100%;
     background-position: center;
